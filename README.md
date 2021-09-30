@@ -11,9 +11,8 @@
 
 - 📓 I am Arsh a regular 13 year old.
 
-- I know some 🐍 Python, ♨️ C++ 🌐 HTML/CSS/JS, and from time to time I do a bit of 🚀 bash (still googling basic syntax)
+- I know some Python, C++, HTML/CSS/JS, and from time to time I do a bit of shell/bash (still googling basic syntax)
 
-- 👯 Rant over my code, steal it, fork it, blow it up, idk. Feedback and Destructive opinion are always welcome.
 
 - 🌱 Currently learning bash scripting.
 
@@ -34,7 +33,7 @@
 
 <h3 align="center">
 <img src="https://img.shields.io/badge/python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=FFFFFF">
-<img src="https://img.shields.io/badge/java%20-%23A07ACC.svg?style=for-the-badge&logo=java&logoColor=FFFFFF">
+<img src="https://img.shields.io/badge/java%20-%23A07ACC.svg?style=for-the-badge&logo=c++&logoColor=FFFFFF">
 </h3>
 
 <h4 align="center">Operating Systems</h4>
