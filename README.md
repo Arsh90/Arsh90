@@ -1,16 +1,45 @@
-### Hi there 👋
+# Hi! My name is [Arsh ]()
 
-<!--
-**Arsh90/Arsh90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Profile Views](https://api.ghprofile.me/view?username=Arsh90&color=2E3440&label=profile_views)
 
-Here are some ideas to get you started:
+## 💡 About
+<a href="https://github.com/Arsh90">
+  <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=Arsh90&show_icons=true&title_color=E6DFB8&text_color=cddbf9&icon_color=caf6bb&bg_color=20202A">
+  <img align="right" width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=Arsh90&currStreakLabel=E6DFB8&sideLabels=cddbf9&currStreakNum=caf6bb&sideNums=E6DFB8&dates=E6DFB8&ring=cddbf9&fire=cddbf9&stroke=caf6bb&background=20202A">
+  <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=frenzyexists&layout=compact&title_color=E6DFB8&text_color=cddbf9&icon_color=caf6bb&bg_color=20202A" alt="frenzystreaks" />
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📓 I am Arsh a regular 13 year old.
+
+- 🙃 I tend to forget the things I make so sometimes I end projects halved other times are done a year later, or simply never
+
+ - I know some 🐍 Python, ♨️ Java 🌐 HTML/CSS/JS, and from time to time I do a bit of 🚀 bash (still googling basic syntax crap)
+
+- 👯 Rant over my code, steal it, fork it, blow it up, idk. Feedback and Destructive opinion are always welcome.
+
+- 🌱 Currently learning bash scripting
+
+- 👾 Linux is my passion, even if its one to suffer when ricing
+
+- 💻 Currently using *based* Archlabs on bspwm themed with my own colorscheme, [Aquarium](https://github.com/FrenzyExists/aquarium-vim)
+
+## 💙 Technologies 💙
+
+<h4 align="center">Editors</h4>
+
+<h3 align="center">
+<img src="https://img.shields.io/badge/neovim%20-%2357A143.svg?style=for-the-badge&logo=neovim&logoColor=FFFFFF">
+<img src="https://img.shields.io/badge/vscode%20-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=FFFFFF">
+</h3>
+
+<h4 align="center">Programming Languages</h4>
+
+<h3 align="center">
+<img src="https://img.shields.io/badge/python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=FFFFFF">
+<img src="https://img.shields.io/badge/java%20-%23A07ACC.svg?style=for-the-badge&logo=java&logoColor=FFFFFF">
+</h3>
+
+<h4 align="center">Operating Systems</h4>
+
+<h3 align="center">
+<img src="https://img.shields.io/badge/arch_linux%20-%231793D1.svg?style=for-the-badge&logo=arch-linux&logoColor=FFFFFF">
