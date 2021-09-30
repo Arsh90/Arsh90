@@ -21,7 +21,7 @@
 
 - 👾 Linux is my passion, even if its one to suffer when ricing
 
-- 💻 Currently using *based* Archlabs on bspwm themed with my own colorscheme, [Aquarium](https://github.com/FrenzyExists/aquarium-vim)
+- 💻 Currently using Arch Linux on qtile themed with Nord Theme. 🥰
 
 ## 💙 Technologies 💙
 
