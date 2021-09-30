@@ -6,20 +6,18 @@
 <a href="https://github.com/Arsh90">
   <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=Arsh90&show_icons=true&title_color=E6DFB8&text_color=cddbf9&icon_color=caf6bb&bg_color=20202A">
   <img align="right" width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=Arsh90&currStreakLabel=E6DFB8&sideLabels=cddbf9&currStreakNum=caf6bb&sideNums=E6DFB8&dates=E6DFB8&ring=cddbf9&fire=cddbf9&stroke=caf6bb&background=20202A">
-  <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=frenzyexists&layout=compact&title_color=E6DFB8&text_color=cddbf9&icon_color=caf6bb&bg_color=20202A" alt="frenzystreaks" />
+  <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arsh90&layout=compact&title_color=E6DFB8&text_color=cddbf9&icon_color=caf6bb&bg_color=20202A" alt="frenzystreaks" />
 </a>
 
 - 📓 I am Arsh a regular 13 year old.
 
-- 🙃 I tend to forget the things I make so sometimes I end projects halved other times are done a year later, or simply never
-
- - I know some 🐍 Python, ♨️ Java 🌐 HTML/CSS/JS, and from time to time I do a bit of 🚀 bash (still googling basic syntax crap)
+- I know some 🐍 Python, ♨️ C++ 🌐 HTML/CSS/JS, and from time to time I do a bit of 🚀 bash (still googling basic syntax)
 
 - 👯 Rant over my code, steal it, fork it, blow it up, idk. Feedback and Destructive opinion are always welcome.
 
-- 🌱 Currently learning bash scripting
+- 🌱 Currently learning bash scripting.
 
-- 👾 Linux is my passion, even if its one to suffer when ricing
+- 👾 Linux is my passion.
 
 - 💻 Currently using Arch Linux on qtile themed with Nord Theme. 🥰
 
