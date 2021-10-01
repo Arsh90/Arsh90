@@ -9,7 +9,7 @@
   <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arsh90&layout=compact&title_color=E6DFB8&text_color=cddbf9&icon_color=caf6bb&bg_color=20202A" alt="frenzystreaks" />
 </a>
 
-- 📓 I am Arsh a regular 13 year old.
+- 📓 Hello I am Arsh!!
 
 - I know some Python, C++, HTML/CSS/JS, and from time to time I do a bit of shell/bash (still googling basic syntax)
 
