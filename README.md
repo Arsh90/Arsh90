@@ -18,7 +18,7 @@
 
 - 👾 Linux is my passion.
 
-- 💻 Currently using Arch Linux on qtile themed with Nord Theme. 🥰
+- 💻 Currently using Arch Linux on qtile. 🥰
 
 ## 💙 Technologies 💙
 
