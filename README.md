@@ -18,7 +18,7 @@
 
 - 👾 Linux is my passion.
 
-- 💻 Currently using Arch Linux on qtile. 🥰
+- 💻 Currently using Arch Linux with qtile. 🥰
 
 ## 💙 Technologies 💙
 
