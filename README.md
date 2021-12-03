@@ -34,6 +34,7 @@
 <h3 align="center">
 <img src="https://img.shields.io/badge/python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=FFFFFF">
 <img src="https://img.shields.io/badge/c++%20-%23A07ACC.svg?style=for-the-badge&logo=c++&logoColor=FFFFFF">
+<img src="https://img.shields.io/badge/-%20C%23-%2388c0d0?style=for-the-badge">
 </h3>
 
 <h4 align="center">Operating Systems</h4>
